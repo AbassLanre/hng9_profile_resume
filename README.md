@@ -1,4 +1,4 @@
-#Olanrewaju's Profile
+# Olanrewaju's Profile
 
 This is a single page description of who Olanrewaju is, his love for the programming world,
 the app contains his most active social links for potential employers and friends to reach out to.
@@ -14,7 +14,7 @@ The app is responsive and has the theme feature at the top left corner if you wa
 light mode or dark mode.
 
 
-##Codebase and Plugins 
+## Codebase and Plugins 
 
 This application utilizes some great plugins that help the beautification and responsiveness of the
 application. Such plugins include:
@@ -35,7 +35,7 @@ name, position, location and image of the developer. This was followed by the li
 containers. The Hire me button brings up an Alert dialog showing the reader why Olanrewaju should be hired. Then lastly the experience section where
  all 2022 experience of Olanrewaju was neatly displayed utilizing data from the experience_model class.
 
-##Design
+## Design
 
 The design was gotten from a simple search on google (Simple mobile resume Profile), a lot of results came up before the design by
 [Rob Licau](https://dribbble.com/RobertLicau). His design was minmalistic and very clear, this inspired the choice of design to implement.
@@ -44,12 +44,12 @@ His [design](https://dribbble.com/shots/5438724-Resume-Mobile-App-for-iOS-Black-
 with the social media icons and included my moniker(PercyAbs) and the theme switch, I also scraped the bottomNavigationBar from my design, I added the Hire me button
 into the design.
 
-##Features to add
+## Features to add
 
 I would have loved to add the language selector option and also allow the app to detect the phone's default language and switch to it.
 I would also have loved to add a local storing of the the state so that the app recognises the user's choice after app closure
 
-##Challenges faced
+## Challenges faced
 
 - The first challenge would be the initial setting up of the codebase, the dark mode/light mode functionality gave me issue because i had initially used provider to store
 the state of the theme data and tried to combine it with shared_preferences, so confusion came in and i had to scrap the use of provider and shared_preferences and replaced 
