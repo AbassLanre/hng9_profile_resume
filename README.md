@@ -18,10 +18,10 @@ light mode or dark mode.
 
 This application utilizes some great plugins that help the beautification and responsiveness of the
 application. Such plugins include:
-    - font_awesome_flutter: this gave the social media icons needed in the app
-    - flutter_screenutil: this is for responsiveness so we don't have any rendering issues
-    - flutter_svg: this was for the 3 svg files in assets/icons, helps displaying the svg files in the app
-    - url_launcher: this was used to launch the social media accounts to their respective sites
+- font_awesome_flutter: this gave the social media icons needed in the app
+- flutter_screenutil: this is for responsiveness so we don't have any rendering issues
+- flutter_svg: this was for the 3 svg files in assets/icons, helps displaying the svg files in the app
+- url_launcher: this was used to launch the social media accounts to their respective sites
 
 The font used was 'Nunito', because it has a unique feel and look. The lib folder was further divided into 4 other 
 folders in order to separate concerns and allow for easy modifications. It has a model class 
