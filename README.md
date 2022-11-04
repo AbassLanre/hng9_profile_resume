@@ -1,6 +1,5 @@
 # Olanrewaju's Profile
 
-![Dark](https://drive.google.com/file/d/1bRSmQYR9S4S8istJOvV7sdBWDVLh2nY0/view?usp=share_link)![Light](https://drive.google.com/file/d/1qn1rop_ARzDAfTgFdqrMV714LB6WepSd/view?usp=share_link)
 
 This is a single page app description of who Olanrewaju is, his love for the programming world, the app contains his most active social links for potential employers and friends to reach out to. He uses the "PercyAbs" moniker as his identifier. He is majorly skilled in mobile development as shown
 in the skills section using the Flutter framework and uses both java and python for solving algorithms (Hoping he ports to using Dart for algorithms soon).
